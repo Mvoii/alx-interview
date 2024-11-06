@@ -114,7 +114,6 @@ def get_solutions():
     a = 0
     group = []
     build_solution(a, group)
-    print("getting soln")
 
 
 n = get_input()
